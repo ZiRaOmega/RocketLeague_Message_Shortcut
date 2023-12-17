@@ -19,7 +19,7 @@ pip install pyautogui keyboard pygetwindow tkinter
 Usage
 1. Starting the Script: Run the script with Python.
 ```bash
-python rocket_league_shortcut_manager.py
+python main.py
 ```
 2. Adding a Shortcut:
 Click the "Add Shortcut" button.
@@ -34,7 +34,7 @@ Click the "Delete Shortcut" button to remove it.
 While playing Rocket League, use the defined keyboard shortcuts to send the associated messages.
 
 ### File Structure
-rocket_league_shortcut_manager.py: The main Python script.
+main.py: The main Python script.
 shortcuts.json: A JSON file where the shortcuts are stored.
 
 ## Notes
